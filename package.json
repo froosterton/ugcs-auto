@@ -1,0 +1,16 @@
+{
+  "name": "discord-ugcsdm-monitor",
+  "version": "1.0.0",
+  "description": "Monitor DMs across multiple Discord accounts",
+  "main": "ugcsdm_monitor.js",
+  "scripts": {
+    "start": "node ugcsdm_monitor.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.12",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
